@@ -67,12 +67,12 @@ void IoToFile::Run() {
 	WriteToFile(file_two_);
 }
 
-
-int main() {
-	std::string file_one = "D:\\code\\algorithm\\algorithm\\io\\file_one.txt";
-	std::string file_two = "D:\\code\\algorithm\\algorithm\\io\\file_two.txt";
-	IoToFile io(file_one,file_two);
-	io.Run();
-
-}
+//
+//int main() {
+//	std::string file_one = "D:\\code\\algorithm\\algorithm\\io\\file_one.txt";
+//	std::string file_two = "D:\\code\\algorithm\\algorithm\\io\\file_two.txt";
+//	IoToFile io(file_one,file_two);
+//	io.Run();
+//
+//}
 
